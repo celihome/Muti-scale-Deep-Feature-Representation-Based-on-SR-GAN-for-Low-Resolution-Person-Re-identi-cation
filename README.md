@@ -1,1 +1,1 @@
-# Muti-scale-Deep-Feature-Representation-Based-on-SR-GAN-for-Low-Resolution-Person-Re-identi-cation
+# MFR-GAN
